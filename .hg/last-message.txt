@@ -1,0 +1,4 @@
+urlencode/decode sms global connection
+
+change db from billing id to client id back to billing id.
+
